@@ -13,9 +13,11 @@ Este proyecto implementa y compara dos técnicas de clustering no supervisado (K
 - Visualización de clusters en espacio reducido (PCA)
 
 ## Resultados
-El análisis comparativo entre K-means y GMM muestra que K-means produjo clusters más compactos y con mayor separación para este conjunto de datos, con un coeficiente de Davies-Bouldin de [valor] frente a [valor] para GMM. Esto sugiere que la estructura de los datos se ajusta mejor a clusters de forma esférica.
+El análisis comparativo entre K-means y GMM muestra que K-means produjo clusters más compactos y con mayor separación para este conjunto de datos. Esto sugiere que la estructura de los datos se ajusta mejor a clusters de forma esférica.
 
-![Visualización de clusters](ruta-a-imagen-guardada.png)
+![Gráfico de siluetas](https://github.com/user-attachments/assets/331c1513-04cc-4690-9624-ec1a72f6cc4a)
+
+![Gráfico de cluster (GMM) con PCA](https://github.com/user-attachments/assets/412bbec6-2b67-46bb-b1ef-fa2d7e626617)
 
 ## Tecnologías utilizadas
 
