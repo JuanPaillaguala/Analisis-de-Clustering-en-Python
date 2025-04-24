@@ -19,18 +19,11 @@ El análisis comparativo entre K-means y GMM muestra que K-means produjo cluster
 
 ## Tecnologías utilizadas
 
-- Python 3.x
+- Python 3.12.7
 - Pandas y NumPy para manipulación de datos
 - Scikit-learn para implementación de algoritmos de clustering
 - Matplotlib y Seaborn para visualización
-- Yellowbrick para evaluación y visualización de clusters
-
-## Cómo usar este proyecto
-
-1. Clona este repositorio
-2. Instala las dependencias: `pip install -r requirements.txt`
-3. Abre el notebook `Proyecto_Python_Clustering.ipynb` con Jupyter
-4. Ejecuta las celdas para replicar el análisis
+- Scikit-learn y Yellowbrick para evaluación y visualización de clusters
 
 ## Dependencias
 
